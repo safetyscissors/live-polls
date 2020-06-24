@@ -23,9 +23,9 @@ First 3 people to find...
 - Something you've made
 - Facemask
 
-## Who has the best item. Pick 3 questions.
+## Who has the best item.
 
-Everyone has 5 minutes to pick 3 questions then find those items. Then everyone votes.
+Everyone has 5 minutes to pick 3 questions and find those items. We'll have a show and tell, then everyone votes.
 
 - Most unique footwear
 - Best thing from the 90s
