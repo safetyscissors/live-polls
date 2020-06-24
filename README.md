@@ -2,7 +2,7 @@
 
 Weekend sprint to build a scavenger hunt/superlatives game. Played with >20ppl
 
-![gameplay](https://github.com/safetyscissors/live-poll/blob/master/playing.jpg)
+![gameplay](https://github.com/safetyscissors/live-polls/blob/master/playing.jpg)
 
 ## This is
 
